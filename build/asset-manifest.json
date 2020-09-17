@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.67dae433.chunk.js",
+    "main.js.map": "/static/js/main.67dae433.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76df2e56.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76df2e56.js.map",
+    "static/js/2.c55517d7.chunk.js": "/static/js/2.c55517d7.chunk.js",
+    "static/js/2.c55517d7.chunk.js.map": "/static/js/2.c55517d7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e1e595614d96941c44fea8c0dddbb6b3.js": "/precache-manifest.e1e595614d96941c44fea8c0dddbb6b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c55517d7.chunk.js.LICENSE.txt": "/static/js/2.c55517d7.chunk.js.LICENSE.txt",
+    "static/media/01.jpg": "/static/media/01.89477e5f.jpg",
+    "static/media/02.jpg": "/static/media/02.69b57063.jpg",
+    "static/media/03.jpg": "/static/media/03.e55e943c.jpg",
+    "static/media/04.jpg": "/static/media/04.070ee1cd.jpg",
+    "static/media/05.jpg": "/static/media/05.d573449a.jpg",
+    "static/media/06.jpg": "/static/media/06.c9b373b8.jpg",
+    "static/media/07.jpg": "/static/media/07.eb5cc4a4.jpg",
+    "static/media/08.jpg": "/static/media/08.d9fb7bef.jpg",
+    "static/media/09.jpg": "/static/media/09.f1477c25.jpg",
+    "static/media/10.jpg": "/static/media/10.6e6241e9.jpg",
+    "static/media/11.jpg": "/static/media/11.99df6e3a.jpg",
+    "static/media/amares-l.png": "/static/media/amares-l.13e7f9d6.png",
+    "static/media/bg.jpg": "/static/media/bg.f3bc939f.jpg",
+    "static/media/cerveza.gif": "/static/media/cerveza.da082800.gif",
+    "static/media/map.png": "/static/media/map.809e8101.png",
+    "static/media/marchiquita.jpg": "/static/media/marchiquita.d5202441.jpg",
+    "static/media/mdp.gif": "/static/media/mdp.f7607623.gif",
+    "static/media/santaclara.jpg": "/static/media/santaclara.cfad9b13.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76df2e56.js",
+    "static/js/2.c55517d7.chunk.js",
+    "static/js/main.67dae433.chunk.js"
+  ]
+}
